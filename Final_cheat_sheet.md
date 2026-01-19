@@ -2,7 +2,6 @@ from sympy.codegen.fnodes import merge
 
 # **计概 CHEAT-SHEET**
 
-汤伟杰
 
 ### I.DP
 #### 1.背包问题
